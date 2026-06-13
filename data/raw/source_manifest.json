@@ -1,0 +1,8 @@
+{
+  "primary_dataset": "CivicDataLab flood-data-ecosystem-Assam MASTER_VARIABLES.csv",
+  "raw_url": "https://github.com/CivicDataLab/flood-data-ecosystem-Assam/raw/refs/heads/main/Sources/MASTER_VARIABLES.csv",
+  "repository": "https://github.com/CivicDataLab/flood-data-ecosystem-Assam",
+  "granularity": "Monthly revenue-circle-level records for Assam",
+  "target_proxy": "kits_required = ceil(Population_affected_Total / 5)",
+  "forecast_scenario": "Next-month rainfall/inundation/river-level features are historical P90 same-month values unless replaced with live forecasts."
+}
